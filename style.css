@@ -1,0 +1,17 @@
+.resumeBtn {
+    cursor: pointer;
+    margin-top: 16px;
+    padding: 10px 70px;
+    font-size: 2rem;
+    background: #0ac94a;
+    color: #e70a0a;
+    border: 1.5px solid #000;
+    border-radius: 4px;
+    font-weight: bolder;
+
+}
+
+.resumeBtn:hover {
+    background: #e70a0a;
+    color: #0ac94a;
+}
